@@ -1,0 +1,650 @@
+#ngscorp1 .sfm_textbox
+{
+    padding:1px;
+}
+#ngscorp1 .sfm_textarea
+{
+    padding:2px;
+    resize:none;
+}
+#ngscorp1 .error_strings
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:#660000;
+}
+#ngscorp1 img
+{
+    border:0;
+}
+#ngscorp1 .loading_div
+{
+    background-color:transparent;
+    background-image:url("images/loading.gif");
+    background-position:center center;
+    background-repeat:no-repeat;
+}
+#ngscorp1 input[type='submit'],input[type='reset']
+{
+    font:inherit;
+    color:inherit;
+}
+#ngscorp1 .sfm_cr_box
+{
+    font-family:Verdana;
+    font-size:10px;
+    color:#888888;
+}
+#ngscorp1 .sfm_cr_box a
+{
+    color:#888888;
+}
+#ngscorp1 .sfm_slider
+{
+    margin:0;
+    display:inline-bock;
+}
+#ngscorp1 .slider_label
+{
+    padding-top:5px;
+    padding-left:3px;
+    overflow:visible;
+    display:inline-block;
+}
+#ngscorp1 .form_outer_div
+{
+    border:none;
+    background-color:#ffffff;
+}
+#ngscorp1 .sfm_form_label
+{
+    background-color:transparent;
+}
+#ngscorp1 .element_label
+{
+    background-color:transparent;
+}
+body#sfm_ngscorp1_body
+{
+    background-color:transparent;
+    font-family:Arial;
+    font-size:10pt;
+    color:#000000;
+    margin:0px;
+}
+#ngscorp1 .form_outer_div
+{
+    font-family:Arial;
+    font-size:10pt;
+    color:#000000;
+}
+#ngscorp1 .form_subheading
+{
+    background-color:transparent;
+    margin:0;
+    padding:0;
+}
+#ngscorp1 .sfm_float_error_box
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:#eeeeee;
+    background:none repeat scroll 0 0 #333333;
+    border:0;
+    border-radius:4px;
+    -moz-border-radius:4px;
+    -webkit-border-radius:4px;
+    box-shadow:0 0 4px #333;
+    border:none;
+}
+#ngscorp1 .sfm_close_box
+{
+    font-family:Verdana;
+    font-size:12px;
+    color:#eeeeee;
+}
+#ngscorp1 .progress_box_container
+{
+    border:1px solid #8e8e8e;
+    background-color:#cccccc;
+    font-family:Arial;
+    font-size:10px;
+    color:#ffffff;
+    text-align:center;
+    vertical-align:middle;
+}
+#ngscorp1 .progress_box
+{
+    background-color:#333333;
+    width:2px;
+    float:left;
+    margin:2px;
+}
+#ngscorp1 .page_heading
+{
+    background-color:transparent;
+    margin:0;
+    padding:0;
+}
+#ngscorp1 .page_number
+{
+    background-color:transparent;
+}
+#ngscorp1 input[type='text'],input[type='password'],input[type='email'],input[type='tel'],input[type='number']
+{
+    background-color:#ffffff;
+    border:1px solid #888888;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    height:23px;
+    line-height:23px;
+}
+#ngscorp1 textarea
+{
+    background-color:#ffffff;
+    border:1px solid #888888;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+}
+
+
+#ngscorp1 #label5
+{
+    font-family:Arial;
+    font-size:12px;
+    color:#000000;
+    font-style:italic;
+}
+#ngscorp1 #label6
+{
+    font-family:Arial;
+    font-size:10pt;
+    color:#000000;
+    font-style:italic;
+}
+#ngscorp1 #label4
+{
+    font-family:Arial;
+    font-size:10pt;
+    color:#000000;
+    font-style:italic;
+}
+
+#ngscorp1 #t2a9e218cda69f3945bc9
+{
+    width:5px;
+    height:5px;
+    display:none;
+}
+#ngscorp1 #label_container
+{
+    z-index:19;
+}
+#ngscorp1 #Company_name_container
+{
+    z-index:1;
+}
+#ngscorp1 #Company_name
+{
+    float:left;
+    z-index:1;
+}
+#ngscorp1 #Contact_name_container
+{
+    z-index:3;
+}
+#ngscorp1 #Contact_name
+{
+    float:left;
+    z-index:3;
+}
+#ngscorp1 #label1_container
+{
+    z-index:5;
+}
+#ngscorp1 #label5_container
+{
+    z-index:7;
+}
+#ngscorp1 #label6_container
+{
+    z-index:9;
+}
+#ngscorp1 #Country_code_container
+{
+    z-index:2;
+}
+#ngscorp1 #Country_code
+{
+    float:left;
+    z-index:2;
+}
+#ngscorp1 #Telephone_container
+{
+    z-index:8;
+}
+#ngscorp1 #Telephone
+{
+    float:left;
+    z-index:8;
+}
+#ngscorp1 #Fax_container
+{
+    z-index:10;
+}
+#ngscorp1 #Fax
+{
+    float:left;
+    z-index:10;
+}
+#ngscorp1 #label4_container
+{
+    z-index:4;
+}
+#ngscorp1 #Email_container
+{
+    z-index:15;
+}
+#ngscorp1 #Email
+{
+    float:left;
+    z-index:15;
+}
+#ngscorp1 #label3_container
+{
+    z-index:6;
+}
+#ngscorp1 #label7_container
+{
+    z-index:11;
+}
+#ngscorp1 #DropdownList_container
+{
+    z-index:12;
+}
+#ngscorp1 #DropdownList
+{
+    float:left;
+    z-index:12;
+}
+#ngscorp1 #City_container
+{
+    z-index:16;
+}
+#ngscorp1 #City
+{
+    float:left;
+    z-index:16;
+}
+#ngscorp1 #label9_container
+{
+    z-index:14;
+}
+#ngscorp1 #Time_to_call_container
+{
+    z-index:18;
+}
+#ngscorp1 #Time_to_call
+{
+    float:left;
+    z-index:18;
+}
+#ngscorp1 #label8_container
+{
+    z-index:13;
+}
+#ngscorp1 #label10_container
+{
+    z-index:17;
+}
+#ngscorp1 #label11_container
+{
+    z-index:21;
+}
+#ngscorp1 #Message_container
+{
+    z-index:20;
+}
+#ngscorp1 #Message
+{
+    height:160px;
+}
+#ngscorp1 #Message
+{
+    float:left;
+    z-index:20;
+}
+#ngscorp1 #Submit_container
+{
+    z-index:22;
+}
+#ngscorp1 #ngscorp1_Submit_img
+{
+    width:396px;
+    height:29px;
+    border:none;
+}
+
+#ngscorp1 #ngscorp1_outer_div_p1
+{
+    width:575px;
+    height:345px;
+}
+#ngscorp1 #label_container
+{
+    position:absolute;
+    left:8px;
+    top:0px;
+}
+#ngscorp1 #label_container
+{
+    width:152px;
+    height:24px;
+}
+#ngscorp1 #label
+{
+    position:absolute;
+    top:4px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #Company_name_container
+{
+    position:absolute;
+    left:168px;
+    top:0px;
+}
+#ngscorp1 #Company_name
+{
+    width:389px;
+    height:19px;
+}
+#ngscorp1 #Contact_name_container
+{
+    position:absolute;
+    left:168px;
+    top:24px;
+}
+#ngscorp1 #Contact_name
+{
+    width:389px;
+    height:19px;
+}
+#ngscorp1 #label1_container
+{
+    position:absolute;
+    left:8px;
+    top:24px;
+}
+#ngscorp1 #label1_container
+{
+    width:140px;
+    height:20px;
+}
+#ngscorp1 #label1
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #label5_container
+{
+    position:absolute;
+    left:168px;
+    top:48px;
+}
+#ngscorp1 #label5_container
+{
+    width:80px;
+    height:20px;
+}
+#ngscorp1 #label5
+{
+    position:absolute;
+    top:3px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #label6_container
+{
+    position:absolute;
+    left:440px;
+    top:48px;
+}
+#ngscorp1 #label6_container
+{
+    width:24px;
+    height:20px;
+}
+#ngscorp1 #label6
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #Country_code_container
+{
+    position:absolute;
+    left:256px;
+    top:48px;
+}
+#ngscorp1 #Country_code
+{
+    width:26px;
+    height:19px;
+}
+#ngscorp1 #Telephone_container
+{
+    position:absolute;
+    left:328px;
+    top:48px;
+}
+#ngscorp1 #Telephone
+{
+    width:94px;
+    height:19px;
+}
+#ngscorp1 #Fax_container
+{
+    position:absolute;
+    left:464px;
+    top:48px;
+}
+#ngscorp1 #Fax
+{
+    width:94px;
+    height:19px;
+}
+#ngscorp1 #label4_container
+{
+    position:absolute;
+    left:304px;
+    top:48px;
+}
+#ngscorp1 #label4_container
+{
+    width:20px;
+    height:20px;
+}
+#ngscorp1 #label4
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #Email_container
+{
+    position:absolute;
+    left:168px;
+    top:72px;
+}
+#ngscorp1 #Email
+{
+    width:389px;
+    height:19px;
+}
+#ngscorp1 #label3_container
+{
+    position:absolute;
+    left:8px;
+    top:48px;
+}
+#ngscorp1 #label3_container
+{
+    width:140px;
+    height:20px;
+}
+#ngscorp1 #label3
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #label7_container
+{
+    position:absolute;
+    left:8px;
+    top:72px;
+}
+#ngscorp1 #label7_container
+{
+    width:140px;
+    height:20px;
+}
+#ngscorp1 #label7
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #DropdownList_container
+{
+    position:absolute;
+    left:168px;
+    top:96px;
+}
+#ngscorp1 #DropdownList
+{
+    width:160px;
+    height:22px;
+}
+#ngscorp1 #City_container
+{
+    position:absolute;
+    left:384px;
+    top:96px;
+}
+#ngscorp1 #City
+{
+    width:173px;
+    height:19px;
+}
+#ngscorp1 #label9_container
+{
+    position:absolute;
+    left:360px;
+    top:96px;
+}
+#ngscorp1 #label9_container
+{
+    width:24px;
+    height:20px;
+}
+#ngscorp1 #label9
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #Time_to_call_container
+{
+    position:absolute;
+    left:168px;
+    top:120px;
+}
+#ngscorp1 #Time_to_call
+{
+    width:160px;
+    height:22px;
+}
+#ngscorp1 #label8_container
+{
+    position:absolute;
+    left:8px;
+    top:96px;
+}
+#ngscorp1 #label8_container
+{
+    width:140px;
+    height:20px;
+}
+#ngscorp1 #label8
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #label10_container
+{
+    position:absolute;
+    left:8px;
+    top:120px;
+}
+#ngscorp1 #label10_container
+{
+    width:140px;
+    height:20px;
+}
+#ngscorp1 #label10
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #label11_container
+{
+    position:absolute;
+    left:8px;
+    top:152px;
+}
+#ngscorp1 #label11_container
+{
+    width:140px;
+    height:20px;
+}
+#ngscorp1 #label11
+{
+    position:absolute;
+    top:2px;
+    left:0px;
+    text-align:left;
+}
+#ngscorp1 #Message_container
+{
+    position:absolute;
+    left:168px;
+    top:152px;
+}
+#ngscorp1 #Message
+{
+    width:389px;
+    height:154px;
+}
+#ngscorp1 #Submit_container
+{
+    position:absolute;
+    left:168px;
+    top:320px;
+    width:392px;
+    height:25px;
+}

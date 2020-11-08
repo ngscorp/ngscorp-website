@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html >
+   <head >
+      <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+      <meta name='viewport' content='width=device-width, initial-scale=1'>
+      <title >Form Page: ngscorp1</title>
+      <meta name='generator' content='Simfatic Forms 5.0.8.459'>
+      <script src='scripts/jquery-1.7.2.min.js' type='text/javascript'></script>
+      <script src='scripts/jquery.sim.utils.js' type='text/javascript'></script>
+      <script src='scripts/sfm_validatorv7.js' type='text/javascript'></script>
+      <link rel='stylesheet' type='text/css' href='style/ngscorp1.css?r=%sfm_css_rand%'>
+   </head>
+   <body id='sfm_ngscorp1_body'>
+      <form id='ngscorp1' class='sfm_form' novalidate='novalidate' method='post' action='%sfm_self_script%' accept-charset='UTF-8'>
+         <div id='ngscorp1_errorloc' class='error_strings' style='width:575px;text-align:left'>%sfm_error_display_loc%</div>
+         <div id='ngscorp1_outer_div_p1' class='form_outer_div'>
+            <div style='position:relative' id='ngscorp1_inner_div'>
+               <input type='hidden' name='sfm_form_submitted' value='yes'>
+               <input type='hidden' name='%_sfm_form_id_iput_var_%' value='%_sfm_form_id_iput_value_%'>
+               <input type='text' name='t2a9e218cda69f3945bc9' id='t2a9e218cda69f3945bc9'>
+               <div id='label_container' class='sfm_form_label'>
+                  <label id='label' for='Company_name'>Your company name.</label>
+               </div>
+               <div id='Company_name_container' class='sfm_element_container'>
+                  <input type='text' name='Company_name' id='Company_name' class='sfm_textbox_common sfm_textbox' size='20' value='%Company_name%' tabindex='1'>
+               </div>
+               <div id='Contact_name_container' class='sfm_element_container'>
+                  <input type='text' name='Contact_name' id='Contact_name' class='sfm_textbox_common sfm_textbox' size='20' value='%Contact_name%' tabindex='2'>
+               </div>
+               <div id='label1_container' class='sfm_form_label'>
+                  <label id='label1'>Contact person name</label>
+               </div>
+               <div id='label5_container' class='sfm_form_label'>
+                  <label id='label5'>Country code:</label>
+               </div>
+               <div id='label6_container' class='sfm_form_label'>
+                  <label id='label6'>fax:</label>
+               </div>
+               <div id='Country_code_container' class='sfm_element_container'>
+                  <input type='text' name='Country_code' id='Country_code' class='sfm_textbox_common sfm_textbox' size='20' value='%Country_code%' tabindex='3'>
+               </div>
+               <div id='Telephone_container' class='sfm_element_container'>
+                  <input type='text' name='Telephone' id='Telephone' class='sfm_textbox_common sfm_textbox' size='20' value='%Telephone%' tabindex='4'>
+               </div>
+               <div id='Fax_container' class='sfm_element_container'>
+                  <input type='text' name='Fax' id='Fax' class='sfm_textbox_common sfm_textbox' size='20' value='%Fax%' tabindex='5'>
+               </div>
+               <div id='label4_container' class='sfm_form_label'>
+                  <label id='label4'>tel:</label>
+               </div>
+               <div id='Email_container' class='sfm_element_container'>
+                  <input type='email' name='Email' id='Email' class='sfm_textbox_common sfm_textbox' size='20' value='%Email%' tabindex='6'>
+               </div>
+               <div id='label3_container' class='sfm_form_label'>
+                  <label id='label3'>Contact numbers</label>
+               </div>
+               <div id='label7_container' class='sfm_form_label'>
+                  <label id='label7'>Contact email</label>
+               </div>
+               <div id='DropdownList_container' class='sfm_element_container'>
+                  <select name='DropdownList' id='DropdownList' size='1' tabindex='7'>
+                     <option value='United Kingdom' %6e7fc9d76f031265dbaecc5ed384e092%>United Kingdom</option>
+                     <option value='Albania' %c6aecff9403d40c675d7fdea933b690a%>Albania</option>
+                     <option value='Andorra' %d73500d3c54bbe9bb20f01ccf3738d00%>Andorra</option>
+                     <option value='Armenia' %c016b2487331d47a45d7b597ba553523%>Armenia</option>
+                     <option value='Austria' %a92ae6f4133cbb6c37635b93a1b2a11e%>Austria</option>
+                     <option value='Azerbaijan' %10cb9a2a5f69fea9bf0a447a15e7c590%>Azerbaijan</option>
+                     <option value='Belarus' %73a1b681d952cb58756bae79c01ebcce%>Belarus</option>
+                     <option value='Belgium' %38cc7affebc9209a7a03af30885f1b34%>Belgium</option>
+                     <option value='Bosnia and Herzegovina' %568ebfa3b4c0bb4a1d7b36c0a907e9de%>Bosnia and Herzegovina</option>
+                     <option value='Bulgaria' %4a8012d9cbc119816f0f7e311254469b%>Bulgaria</option>
+                     <option value='Croatia' %3155c0b261840b0f0ee5fd0a0cd82592%>Croatia</option>
+                     <option value='Cyprus' %886f04fe30f4cb1c2111afb3dbd0cab2%>Cyprus</option>
+                     <option value='Czechia' %81122ae4ca4042d766d41fc9ae477a94%>Czechia</option>
+                     <option value='Denmark' %74704c9f17854df74f427205dbe3b829%>Denmark</option>
+                     <option value='Estonia' %4c2eb0311f473d7122c4be6b66424ed0%>Estonia</option>
+                     <option value='Finland' %e51bc2aa84f5efdf8a2628bd70ad42da%>Finland</option>
+                     <option value='France' %cd1e73d95cb471392684cc249f133e4f%>France</option>
+                     <option value='Georgia' %1de3e5c5c6008e2fc52eda758198d97a%>Georgia</option>
+                     <option value='Germany' %4487f3d80ea00be43e96157a80cd8b1e%>Germany</option>
+                     <option value='Greece' %ecc261591b689e6da71204eb25e7a9a6%>Greece</option>
+                     <option value='Hungary' %53fcddf3f5e137b844eb033fecacbe25%>Hungary</option>
+                     <option value='Iceland' %749364c86d797397b281f51444064350%>Iceland</option>
+                     <option value='Ireland' %267b6bddf06c0c09d1773649ed5b5f48%>Ireland</option>
+                     <option value='Italy' %930aa30310d4f80f4510cafa9fcec90f%>Italy</option>
+                     <option value='Kazakhstan' %0d3803964b0c829eb1cabd6c68f9a59a%>Kazakhstan</option>
+                     <option value='Kosovo' %57a1da59aec9d1ba2ccf36c55b25e704%>Kosovo</option>
+                     <option value='Latvia' %d255e122e2557d94ba7f7fa5cb640b03%>Latvia</option>
+                     <option value='Liechtenstein' %afbb5d888f5bbc38668d6d3fc7f02596%>Liechtenstein</option>
+                     <option value='Lithuania' %05f080adcfc5a79d6e75234135e90bac%>Lithuania</option>
+                     <option value='Luxembourg' %61031b1e2fe8e2dd0a235e2986314f89%>Luxembourg</option>
+                     <option value='Malta' %feb2e25f6063c06960173b2f21fceaf7%>Malta</option>
+                     <option value='Moldova' %c603609a738a7352ebb65cbe381283ac%>Moldova</option>
+                     <option value='Monaco' %69c94faa4a7a5902bb9da0ddfda4a8f5%>Monaco</option>
+                     <option value='Montenegro' %b42e068682da1ddf56cccb376ca0c350%>Montenegro</option>
+                     <option value='Netherlands' %9c9a09fe1a283b2332fc9ba64573c333%>Netherlands</option>
+                     <option value='North Macedonia (formerly Macedonia)' %6b00793dd8e82ace7ce85f484733d06c%>North Macedonia (formerly Macedonia)</option>
+                     <option value='Norway' %1ff1a404a19dbb01dfe1c64381444568%>Norway</option>
+                     <option value='Poland' %2abe55160b1160e795844b61c46ba4aa%>Poland</option>
+                     <option value='Portugal' %7108b024202570a825f054aef61109bd%>Portugal</option>
+                     <option value='Romania' %ff0594d9138cba7fb04bbf69234454dc%>Romania</option>
+                     <option value='Russia' %2b63126d63f47af93ac3932573fa0ca2%>Russia</option>
+                     <option value='San Marino' %4b32fe19e627cdc93a93f0cc050a039d%>San Marino</option>
+                     <option value='Serbia' %cdccbba13d1aa06585b77239469c7264%>Serbia</option>
+                     <option value='Slovakia' %e24e063362684d0442b5ed513499bc6b%>Slovakia</option>
+                     <option value='Slovenia' %df0474ef20d262f72c575e83b65d254d%>Slovenia</option>
+                     <option value='Spain' %71fc4dccdee89533a5f57880e6efa7f1%>Spain</option>
+                     <option value='Sweden' %67eb10b30f6bac4c593dfa27be46042a%>Sweden</option>
+                     <option value='Switzerland' %a7b2c4f3231fb44a1556ca210e78e731%>Switzerland</option>
+                     <option value='Turkey' %92bf695e74b294e41fef53bac4dac4d9%>Turkey</option>
+                     <option value='Ukraine' %79bd662932ec8cc3a14b4f56c36dbb86%>Ukraine</option>
+                  </select>
+               </div>
+               <div id='City_container' class='sfm_element_container'>
+                  <input type='text' name='City' id='City' class='sfm_textbox_common sfm_textbox' size='20' value='%City%' tabindex='8'>
+               </div>
+               <div id='label9_container' class='sfm_form_label'>
+                  <label id='label9'>City</label>
+               </div>
+               <div id='Time_to_call_container' class='sfm_element_container'>
+                  <select name='Time_to_call' id='Time_to_call' size='1' tabindex='9'>
+                     <option value='Any' %d762c32be4fd6856b865bea549513ef1%>Any</option>
+                     <option value='Morning' %965f59c1e36932a9d9f5a8054a44ee4f%>Morning</option>
+                     <option value='Afternoon' %f9b4ca9ae0014e817ad964ce1e800bb1%>Afternoon</option>
+                  </select>
+               </div>
+               <div id='label8_container' class='sfm_form_label'>
+                  <label id='label8'>Your location country</label>
+               </div>
+               <div id='label10_container' class='sfm_form_label'>
+                  <label id='label10'>Prefered contact time</label>
+               </div>
+               <div id='label11_container' class='sfm_form_label'>
+                  <label id='label11'>Message</label>
+               </div>
+               <div id='Message_container' class='sfm_element_container'><textarea name='Message' id='Message' class='sfm_textbox_common sfm_textarea'>%Message%</textarea></div>
+               <div id='Submit_container' class='loading_div sfm_element_container'>
+                  <input type='image' name='Submit' id='ngscorp1_Submit_img' src='images/ngscorp1-Submit-0.png' alt='submit'>
+               </div>
+            </div>
+         </div>
+      </form>
+      <script type='text/javascript'>
+$(function()
+{
+   sfm_show_loading_on_formsubmit('ngscorp1','ngscorp1_Submit_img');
+});
+      </script>
+      <script type='text/javascript'>
+var ngscorp1Validator = new Validator("ngscorp1");
+ngscorp1Validator.addValidation("Company_name",{required:true,message:"Please fill in Co_name"} );
+ngscorp1Validator.addValidation("Contact_name",{required:true,message:"Please fill in Contact_name"} );
+ngscorp1Validator.addValidation("Telephone",{required:true,message:"Please fill in Telephone"} );
+ngscorp1Validator.addValidation("Email",{email:true,message:"The input for  should be a valid email value"} );
+      </script>
+   </body>
+</html>
